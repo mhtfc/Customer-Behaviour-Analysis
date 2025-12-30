@@ -107,7 +107,7 @@ The project covers the complete lifecycle:
 ## 👤 Author
 
 **Prachi Chaurasia**
-Aspiring Business Analyst | Python | SQL | Power BI
+
 
 ---
 
