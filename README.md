@@ -95,11 +95,11 @@ The project covers the complete lifecycle:
 
 ## ▶️ How to Run the Project
 
-1. Download the dataset (`.csv` file).
+1. Download the dataset (`https://github.com/mhtfc/Customer-Behaviour-Analysis/blob/main/customer_shopping_behavior.csv` file).
 2. Run the Python scripts/notebooks for data cleaning and EDA.
 3. Load the cleaned data into a PostgreSQL database.
 4. Execute the SQL queries provided in the SQL script.
-5. Open the Power BI `.pbix` file to explore the dashboard.
+5. Open the Power BI `https://github.com/mhtfc/Customer-Behaviour-Analysis/blob/main/customer%20behaviour%20dashboard.pbix` file to explore the dashboard.
 6. Review the report and presentation for summarized insights.
 
 ---
